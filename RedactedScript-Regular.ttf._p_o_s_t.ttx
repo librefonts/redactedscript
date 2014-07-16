@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-233"/>
+    <underlineThickness value="94"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="glyph1"/>
+      <psName name="uni000D"/>
+      <psName name="uni00A0"/>
+      <psName name="uni00AD"/>
+      <psName name="uni2000"/>
+      <psName name="uni2001"/>
+      <psName name="uni2002"/>
+      <psName name="uni2003"/>
+      <psName name="uni2004"/>
+      <psName name="uni2005"/>
+      <psName name="uni2006"/>
+      <psName name="uni2007"/>
+      <psName name="uni2008"/>
+      <psName name="uni2009"/>
+      <psName name="uni200A"/>
+      <psName name="uni2010"/>
+      <psName name="uni2011"/>
+      <psName name="figuredash"/>
+      <psName name="uni202F"/>
+      <psName name="uni205F"/>
+      <psName name="uniE000"/>
+    </extraNames>
+  </post>
+
+</ttFont>

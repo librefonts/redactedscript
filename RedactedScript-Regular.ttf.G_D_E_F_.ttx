@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GDEF>
+    <Version value="1.0"/>
+    <GlyphClassDef Format="2">
+      <ClassDef glyph="A" class="1"/>
+      <ClassDef glyph="B" class="1"/>
+      <ClassDef glyph="C" class="1"/>
+      <ClassDef glyph="D" class="1"/>
+      <ClassDef glyph="E" class="1"/>
+      <ClassDef glyph="F" class="1"/>
+      <ClassDef glyph="G" class="1"/>
+      <ClassDef glyph="H" class="1"/>
+      <ClassDef glyph="I" class="1"/>
+      <ClassDef glyph="J" class="1"/>
+      <ClassDef glyph="K" class="1"/>
+      <ClassDef glyph="L" class="1"/>
+      <ClassDef glyph="M" class="1"/>
+      <ClassDef glyph="N" class="1"/>
+      <ClassDef glyph="O" class="1"/>
+      <ClassDef glyph="P" class="1"/>
+      <ClassDef glyph="Q" class="1"/>
+      <ClassDef glyph="R" class="1"/>
+      <ClassDef glyph="S" class="1"/>
+      <ClassDef glyph="T" class="1"/>
+      <ClassDef glyph="U" class="1"/>
+      <ClassDef glyph="V" class="1"/>
+      <ClassDef glyph="W" class="1"/>
+      <ClassDef glyph="X" class="1"/>
+      <ClassDef glyph="Y" class="1"/>
+      <ClassDef glyph="Z" class="1"/>
+      <ClassDef glyph="a" class="1"/>
+      <ClassDef glyph="ampersand" class="1"/>
+      <ClassDef glyph="asciicircum" class="1"/>
+      <ClassDef glyph="asciitilde" class="1"/>
+      <ClassDef glyph="asterisk" class="1"/>
+      <ClassDef glyph="at" class="1"/>
+      <ClassDef glyph="b" class="1"/>
+      <ClassDef glyph="backslash" class="1"/>
+      <ClassDef glyph="bar" class="1"/>
+      <ClassDef glyph="braceleft" class="1"/>
+      <ClassDef glyph="braceright" class="1"/>
+      <ClassDef glyph="bracketleft" class="1"/>
+      <ClassDef glyph="bracketright" class="1"/>
+      <ClassDef glyph="c" class="1"/>
+      <ClassDef glyph="colon" class="1"/>
+      <ClassDef glyph="comma" class="1"/>
+      <ClassDef glyph="d" class="1"/>
+      <ClassDef glyph="dollar" class="1"/>
+      <ClassDef glyph="e" class="1"/>
+      <ClassDef glyph="eight" class="1"/>
+      <ClassDef glyph="emdash" class="1"/>
+      <ClassDef glyph="endash" class="1"/>
+      <ClassDef glyph="equal" class="1"/>
+      <ClassDef glyph="exclam" class="1"/>
+      <ClassDef glyph="f" class="1"/>
+      <ClassDef glyph="figuredash" class="1"/>
+      <ClassDef glyph="five" class="1"/>
+      <ClassDef glyph="four" class="1"/>
+      <ClassDef glyph="g" class="1"/>
+      <ClassDef glyph="glyph1" class="1"/>
+      <ClassDef glyph="grave" class="1"/>
+      <ClassDef glyph="greater" class="1"/>
+      <ClassDef glyph="h" class="1"/>
+      <ClassDef glyph="hyphen" class="1"/>
+      <ClassDef glyph="i" class="1"/>
+      <ClassDef glyph="j" class="1"/>
+      <ClassDef glyph="k" class="1"/>
+      <ClassDef glyph="l" class="1"/>
+      <ClassDef glyph="less" class="1"/>
+      <ClassDef glyph="m" class="1"/>
+      <ClassDef glyph="n" class="1"/>
+      <ClassDef glyph="nine" class="1"/>
+      <ClassDef glyph="numbersign" class="1"/>
+      <ClassDef glyph="o" class="1"/>
+      <ClassDef glyph="one" class="1"/>
+      <ClassDef glyph="p" class="1"/>
+      <ClassDef glyph="parenleft" class="1"/>
+      <ClassDef glyph="parenright" class="1"/>
+      <ClassDef glyph="percent" class="1"/>
+      <ClassDef glyph="period" class="1"/>
+      <ClassDef glyph="plus" class="1"/>
+      <ClassDef glyph="q" class="1"/>
+      <ClassDef glyph="question" class="1"/>
+      <ClassDef glyph="quotedbl" class="1"/>
+      <ClassDef glyph="quotesingle" class="1"/>
+      <ClassDef glyph="r" class="1"/>
+      <ClassDef glyph="s" class="1"/>
+      <ClassDef glyph="semicolon" class="1"/>
+      <ClassDef glyph="seven" class="1"/>
+      <ClassDef glyph="six" class="1"/>
+      <ClassDef glyph="slash" class="1"/>
+      <ClassDef glyph="space" class="1"/>
+      <ClassDef glyph="t" class="1"/>
+      <ClassDef glyph="three" class="1"/>
+      <ClassDef glyph="two" class="1"/>
+      <ClassDef glyph="u" class="1"/>
+      <ClassDef glyph="underscore" class="1"/>
+      <ClassDef glyph="uni000D" class="1"/>
+      <ClassDef glyph="uni00A0" class="1"/>
+      <ClassDef glyph="uni00AD" class="1"/>
+      <ClassDef glyph="uni2000" class="1"/>
+      <ClassDef glyph="uni2001" class="1"/>
+      <ClassDef glyph="uni2002" class="1"/>
+      <ClassDef glyph="uni2003" class="1"/>
+      <ClassDef glyph="uni2004" class="1"/>
+      <ClassDef glyph="uni2005" class="1"/>
+      <ClassDef glyph="uni2006" class="1"/>
+      <ClassDef glyph="uni2007" class="1"/>
+      <ClassDef glyph="uni2008" class="1"/>
+      <ClassDef glyph="uni2009" class="1"/>
+      <ClassDef glyph="uni200A" class="1"/>
+      <ClassDef glyph="uni2010" class="1"/>
+      <ClassDef glyph="uni2011" class="1"/>
+      <ClassDef glyph="uni202F" class="1"/>
+      <ClassDef glyph="uni205F" class="1"/>
+      <ClassDef glyph="uniE000" class="1"/>
+      <ClassDef glyph="v" class="1"/>
+      <ClassDef glyph="w" class="1"/>
+      <ClassDef glyph="x" class="1"/>
+      <ClassDef glyph="y" class="1"/>
+      <ClassDef glyph="z" class="1"/>
+      <ClassDef glyph="zero" class="1"/>
+    </GlyphClassDef>
+    <LigCaretList>
+      <Coverage Format="1">
+      </Coverage>
+      <!-- LigGlyphCount=0 -->
+    </LigCaretList>
+  </GDEF>
+
+</ttFont>
