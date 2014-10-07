@@ -1,0 +1,33 @@
+{
+  "name": "Redacted Script",
+  "designer": "Christian Naths",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Handwriting",
+  "size": 17080,
+  "fonts": [
+    {
+      "name": "Redacted Script",
+      "style": "normal",
+      "weight": 700,
+      "filename": "RedactedScript-Bold.ttf",
+      "postScriptName": "RedactedScriptBold",
+      "fullName": "Redacted Script Bold",
+      "copyright": "Copyright (c) 2013 Christian Naths. All rights reserved."
+    },
+    {
+      "name": "Redacted Script",
+      "style": "normal",
+      "weight": 400,
+      "filename": "RedactedScript-Regular.ttf",
+      "postScriptName": "RedactedScriptRegular",
+      "fullName": "Redacted Script Regular",
+      "copyright": "Copyright (c) 2013 Christian Naths. All rights reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2013-09-18"
+}

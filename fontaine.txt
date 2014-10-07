@@ -1,0 +1,68 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Redacted Script
+    Sub family: Bold
+    Weight: bold
+    Fixed width: yes
+    Fixed sizes: no
+    Copyright: Copyright © 2013 Christian Naths. All rights reserved.
+    License: SIL OPEN FONT LICENSE Version 1.1
+    License url: http://scripts.sil.org/OFL
+    Version: 1.0
+    Vendor: Christian Naths
+    Vendor url: https://github.com/christiannaths/Redacted-Font
+    Designer: Christian Naths
+    Designer url: http://christiannaths.com
+    Glyph count: 119
+    Character count: 118
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 45
+  Font:
+    Common name: Redacted Script
+    Sub family: Regular
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: no
+    Copyright: Copyright © 2013 Christian Naths. All rights reserved.
+    License: SIL OPEN FONT LICENSE Version 1.1
+    License url: http://scripts.sil.org/OFL
+    Version: 1.0
+    Vendor: Christian Naths
+    Vendor url: https://github.com/christiannaths/Redacted-Font
+    Designer: Christian Naths
+    Designer url: http://christiannaths.com
+    Glyph count: 119
+    Character count: 118
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: partial
+          Percent coverage: 80
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 45
